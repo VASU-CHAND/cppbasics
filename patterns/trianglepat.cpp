@@ -4,9 +4,9 @@ using namespace std;
  
 int main(){
 
-int n;
+int n; 
 int i;
-int m;
+int m; 
 n=1;
 i=0;
 cout << "enter the value of m" <<endl;
